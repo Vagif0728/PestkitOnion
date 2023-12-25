@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\PestkitOnion\PestKitOnion.API\obj\Debug\net6.0\PestKitOnion.API.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PestkitOnion\PestKitOnion.API\obj\Debug\net6.0\PestKitOnion.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PestkitOnion\PestKitOnion.API\obj\Debug\net6.0\PestKitOnion.API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PestkitOnion\PestKitOnion.API\obj\Debug\net6.0\PestKitOnion.API.AssemblyInfo.cs
+C:\Users\User\Desktop\PestkitOnion\PestKitOnion.API\obj\Debug\net6.0\PestKitOnion.API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PestkitOnion\PestKitOnion.API\obj\Debug\net6.0\PestKitOnion.API.MvcApplicationPartsAssemblyInfo.cache
